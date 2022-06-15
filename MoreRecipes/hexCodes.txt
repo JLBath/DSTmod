@@ -1,0 +1,16 @@
+RGB Hex codes for computer LEDs
+
+Blue: 0000FF
+Green: 04632F
+
+Pink:  FF0050
+Orange: FF5000
+
+
+Ram
+	Blue: 0 0 91
+	Pink: 255 0 85
+
+Keyboard
+	Green: 218041
+	Blue: 0000FF

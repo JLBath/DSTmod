@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="meatytacos.tex" />
+	<Elements>
+		<Element name="MeatyTacos.tex" u1="0.001" u2="0.749" v2="0.999" v1="0.48146875" variant="" />
+	</Elements>
+</Atlas>
